@@ -1,21 +1,24 @@
+<div align="center">
+  <i>Reach me on:</i>
+  <br />
+  <a href="https://www.linkedin.com/in/diddierkantunquintal/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:diddier.kantun@gmail.com?subject=Hello%20Diddier,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a>
+</div>
 
+### Screenshots
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+<p align="left" width="100%">
+    <img width="32%" src="https://github.com/DiddierKQ/flutter_multipage_activity/blob/master/assets/screenshots/Capture1.JPG">
+    <img width="32%" src="https://github.com/DiddierKQ/flutter_multipage_activity/blob/master/assets/screenshots/Capture2.JPG">
+    <img width="32%" src="https://github.com/DiddierKQ/flutter_multipage_activity/blob/master/assets/screenshots/Capture3.JPG">
+</p>
 
-Screenshots
-
-[![Screenshot](https://github.com/DiddierKQ/flutter_multipage_activity/blob/master/assets/screenshots/Capture1.JPG)](https://github.com/DiddierKQ/flutter_multipage_activity/blob/master/assets/screenshots/Capture1.JPG)
-
-[![Screenshot](https://github.com/DiddierKQ/flutter_multipage_activity/blob/master/assets/screenshots/Capture2.JPG)](https://github.com/DiddierKQ/flutter_multipage_activity/blob/master/assets/screenshots/Capture2.JPG)
-
-[![Screenshot](https://github.com/DiddierKQ/flutter_multipage_activity/blob/master/assets/screenshots/Capture3.JPG)](https://github.com/DiddierKQ/flutter_multipage_activity/blob/master/assets/screenshots/Capture3.JPG)
-
-[![Screenshot](https://github.com/DiddierKQ/flutter_multipage_activity/blob/master/assets/screenshots/Capture4.JPG)](https://github.com/DiddierKQ/flutter_multipage_activity/blob/master/assets/screenshots/Capture4.JPG)
-
-[![Screenshot](https://github.com/DiddierKQ/flutter_multipage_activity/blob/master/assets/screenshots/Capture5.JPG)](https://github.com/DiddierKQ/flutter_multipage_activity/blob/master/assets/screenshots/Capture5.JPG)
+<p align="left" width="100%">
+    <img width="32%" src="https://github.com/DiddierKQ/flutter_multipage_activity/blob/master/assets/screenshots/Capture4.JPG">
+    <img width="32%" src="https://github.com/DiddierKQ/flutter_multipage_activity/blob/master/assets/screenshots/Capture5.JPG">
+</p>
 
 <!-- AUTHOR -->
-## Author
+### Author
 
-* **Diddier Kantun** - *Development and documentation* - [DiddierKantun](https://github.com/DiddierKQ)
+* **Diddier Kantun** - *Development and documentation* - [DiddierKQ](https://github.com/DiddierKQ)
